@@ -1,5 +1,7 @@
 # multi_agent_ai - sample solution
 
+### Question: Summarize analyst recommendation and share the latest news for NVIDIA
+
 ### Analyst Recommendations for NVIDIA
 To get the analyst recommendations for NVIDIA, I will call the function to get analyst recommendations. 
 
